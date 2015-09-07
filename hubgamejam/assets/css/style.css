@@ -40,7 +40,7 @@ p{
   font-size: 20px;
 }
 #top-section{
-  height:562px;
+  min-height:562px;
 }
 #top-section .front-cover{
   padding-top:20%;

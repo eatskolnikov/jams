@@ -12,13 +12,12 @@ $(function() {
     }
   });
   
-  /*
   $("#bgImage").height($("#top-section").height());
 
   $(window).resize(function(){
     $("#bgImage").height($("#top-section").height());
   });
-*/
+
   $(window).scroll(function(){
     var topsectionheight = $("#top-section").height();
     if($(window).scrollTop() > topsectionheight ){
