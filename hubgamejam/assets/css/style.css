@@ -43,7 +43,7 @@ p{
   min-height:562px;
 }
 #top-section .front-cover{
-  padding-top:20%;
+  padding-top:3%;
 }
 .front-cover h1{
   color:#fff;
@@ -84,4 +84,15 @@ h3{
 
 .list-group-item{
   border:none;
+}
+.blue-section h1{
+    font-size: 62px;
+}
+.blue-section h1, .blue-section h2, .blue-section h3, .blue-section h4, .blue-section p {
+  color:#fff;
+}
+.blue-section{
+  background-color:#2daee4;
+  color:#fff;
+  border-top:solid 10px #404040;
 }
